@@ -1,6 +1,10 @@
-# preset-command-for-sndcpy
+<header>
+<h2>preset-command-for-sndcpy</h2>
+</header>
 
-<h2>how to use it:</h2>
+<body>
+<details open>
+<summary><h2>how to use it:</h2></summary>
 <div>
 <ol>
 <li>goto <a href="https://github.com/Genymobile/scrcpy" target="_blank">SNDCPY</a> repository</li>
@@ -11,3 +15,5 @@
 <li>use as u wish</li>
 </ol>
 </div>
+</details>
+</body>
